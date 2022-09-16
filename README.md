@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgandrade&label=Profile%20views&color=0e75b6&style=flat" alt="fgandrade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgandrade" alt="fgandrade" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, React**
 
 - 👨‍💻 All of my projects are available at [http://fgandrade-dev.com/](http://fgandrade-dev.com/)
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fgandrade&show_icons=true&locale=en" alt="fgandrade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fgandrade&" alt="fgandrade" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgandrade" alt="fgandrade" /></a> </p>
